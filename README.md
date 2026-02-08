@@ -1,21 +1,29 @@
 # Anesthesia Duration Calculator
 
 A simple web-based anesthesia duration calculator designed to help estimate anesthesia time based on user input.  
-This project is built as a lightweight, easy-to-use webpage using standard web technologies.
+Built as a lightweight, easy-to-use webpage using HTML, CSS, and JavaScript.
 
-## 🔍 Overview
-The Anesthesia Duration Calculator provides quick calculations through a clean and intuitive interface.  
-It is suitable for educational purposes, demonstrations, and portfolio use.
+## 🔹 Features
+- Clean and simple user interface
+- Instant calculation results
+- Works directly in the browser (no installation required)
+- Mobile-friendly layout
 
-## 🛠 Built With
-- HTML
-- CSS
-- JavaScript
+## 🔹 Demo
+If GitHub Pages is enabled, you can access the live demo here:  
+👉 **https://yourusername.github.io/anesthesia-duration-calculator/**
 
-## 🚀 Live Demo
-You can access the live version here:  
-**https://digijake.github.io/anesthesia-duration-calculator/**
+## 🔹 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-> Replace `yourusername` with your actual GitHub username.
+## 🔹 How to Use
+1. Open the calculator in your browser
+2. Enter the required anesthesia-related values
+3. View the calculated anesthesia duration instantly
 
-## 📂 Project Structure
+## 🔹 Installation (Local Use)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/anesthesia-duration-calculator.git
