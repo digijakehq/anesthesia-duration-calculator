@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anesthesia Time Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Animated background container -->
+  <div class="container">
+    <!-- Calculator card -->
+    <div class="card">
+      <div class="card__border"></div>
+      <div class="card_title__container">
+        <span class="card_title">Anesthesia Time Calculator</span>
+        <p class="card_paragraph">
+          Select start and end times to calculate duration.
+        </p>
+      </div>
+      <hr class="line" />
+
+      <div class="card__list">
+        <div class="card__list_item">
+          <span class="list_text">Start Time:</span>
+          <input id="startTime" type="datetime-local" />
+        </div>
+        <div class="card__list_item">
+          <span class="list_text">End Time:</span>
+          <input id="endTime" type="datetime-local" />
+        </div>
+      </div>
+
+      <button class="button" onclick="calculateDuration()">Calculate Duration</button>
+
+      <p id="result" class="card_paragraph">Duration will appear here...</p>
+    </div>
+  </div>
+
+  <span id="credit-label" class="credit-label"></span>
+  <script src="script.js"></script>
+</body>
+</html>
