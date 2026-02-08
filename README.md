@@ -14,7 +14,7 @@ It is suitable for educational purposes, demonstrations, and portfolio use.
 
 ## 🚀 Live Demo
 You can access the live version here:  
-**https://yourusername.github.io/anesthesia-duration-calculator/**
+**https://digijake.github.io/anesthesia-duration-calculator/**
 
 > Replace `yourusername` with your actual GitHub username.
 
